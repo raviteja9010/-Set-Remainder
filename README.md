@@ -1,2 +1,2 @@
 # -Set-Remainder
-you can set the remainder for every thing and can also set the title,message of the work to do and time
+you can set the remainder for every work & acn also set the title of the remainder and message(work to do) and time.
